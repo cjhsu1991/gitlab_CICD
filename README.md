@@ -1,2 +1,7 @@
 # gitlab_CICD
-CICD使用範例
+yml file
+
+```
+variables:
+  MAVEN_CLI_OPTS
+```
