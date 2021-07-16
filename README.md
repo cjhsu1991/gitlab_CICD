@@ -2,6 +2,10 @@
 yml file
 
 ```
+此範例為 java project 使用 maven 進行 compile ，並串接 sonarqube
+```
+
+```
 
 variables:
   MAVEN_CLI_OPTS: "-s /usr/lib/apache-maven-3.6.3/settings.xml --batch-mode"
